@@ -1,0 +1,197 @@
+[
+        {
+            "league":"england",
+            "equipe1":"Chelsea",
+            "score1":"3",
+            "logo1":"./Asset/chelsea.png",
+            "equipe2":"Man Utd",
+            "score2":"1",
+            "logo2":"./Asset/manunited.png"
+        },
+    
+        {
+            "league":"england",
+            "equipe1":"Arsenal",
+            "score1":"1",
+            "logo1":"./Asset/arsenal.png",
+            "equipe2":"Sunderland",
+            "score2":"0",
+            "logo2":"./Asset/580b57fcd9996e24bc43c4f0.png"
+        },
+    
+       {
+        "league":"england",    
+        "equipe1":"Crystal Palace",
+            "score1":"1",
+            "logo1":"./Asset/crystal.png",
+            "equipe2":"westham United",
+            "score2":"1",
+            "logo2":"./Asset/westham.png"
+        },
+    
+      {
+        "league":"england",
+        "equipe1":"astonvilla",
+        "score1":"0",
+        "logo1":"./Asset/astonvilla.png",
+        "equipe2":"Liverpool",
+        "score2":"3",
+        "logo2":"./Asset/liverpool.png"
+       },
+    {
+        "league":"england",
+        "equipe1":"Everton",
+        "score1":"0",
+        "logo1":"./Asset/everton.png",
+        "equipe2":"Man Utd",
+        "score2":"0",
+        "logo2":"./Asset/manunited.png"
+    },
+    {
+        "league":"spain",
+        "equipe1":"Crystal Palace",
+        "score1":"3",
+        "logo1":"./Asset/crystal.png",
+        "equipe2":"Tottenham Hotspur",
+        "score2":"1",
+        "logo2":"./Asset/totanham.png"
+    },
+    {
+        "league":"spain",    
+        "equipe1":"Everton",
+            "score1":"0",
+            "logo1":"./Asset/everton.png",
+            "equipe2":"Manchester City",
+            "score2":"2",
+            "logo2":"./Asset/mancity.png"
+    },
+    
+{
+    "league":"spain",
+    "equipe1":"Everton",
+    "score1":"0",
+    "logo1":"./Asset/everton.png",
+    "equipe2":"Norwich City",
+    "score2":"0",
+    "logo2":"./Asset/norwich.png"
+},
+{
+    "league":"spain",
+    "equipe1":"Crystal Palace",
+    "score1":"0",
+    "logo1":"./Asset/crystal.png",
+    "equipe2":"Liverpool",
+    "score2":"2",
+    "logo2":"./Asset/liverpool.png"
+},
+{
+    "league":"spain",
+    "equipe1":"Leicester",
+    "score1":"1",
+    "logo1":"./Asset/leister.png",
+    "equipe2":"westham United",
+    "score2":"1",
+    "logo2":"./Asset/westham.png"
+},
+{
+    "league":"italy",
+    "equipe1":"Bournemouth",
+    "score1":"0",
+    "logo1":"./Asset/bournmoth.png",
+    "equipe2":"Tottenham Hotspur",
+    "score2":"0",
+    "logo2":"./Asset/totanham.png"
+},
+{
+    "league":"italy",
+    "equipe1":"Leicester",
+    "score1":"2",
+    "logo1":"./Asset/leister.png",
+    "equipe2":"Sunderland",
+    "score2":"1",
+    "logo2":"./Asset/580b57fcd9996e24bc43c4f0.png"
+},
+{
+    "league":"italy",
+    "equipe1":"Arsenal",
+    "score1":"3",
+    "logo1":"./Asset/arsenal.png",
+    "equipe2":"Watford",
+    "score2":"0",
+    "logo2":"./Asset/watford.png"
+},
+{
+    "league":"italy",
+    "equipe1":"astonvilla",
+    "score1":"0",
+    "logo1":"./Asset/astonvilla.png",
+    "equipe2":"chelsea",
+    "score2":"2",
+    "logo2":"./Asset/chelsea.png"
+},
+{
+    "league":"italy",
+    "equipe1":"Bournemouth",
+    "score1":"1",
+    "logo1":"./Asset/bournmoth.png",
+    "equipe2":"Manchester City",
+    "score2":"2",
+    "logo2":"./Asset/mancity.png"
+},
+{
+    "league":"france",
+    "equipe1":"Crystal Palace",
+    "score1":"0",
+    "logo1":"./Asset/crystal.png",
+    "equipe2":"Norwich City",
+    "score2":"0",
+    "logo2":"./Asset/norwich.png"
+},
+{
+    "league":"france",
+    "equipe1":"Bournemouth",
+    "score1":"0",
+    "logo1":"./Asset/bournmoth.png",
+    "equipe2":"Liverpool",
+    "score2":"3",
+    "logo2":"./Asset/liverpool.png"
+},
+{
+    "league":"france",
+    "equipe1":"Leicester",
+    "score1":"2",
+    "logo1":"./Asset/leister.png",
+    "equipe2":"Manchester City",
+    "score2":"2",
+    "logo2":"./Asset/mancity.png"
+},
+{
+    "league":"france",
+    "equipe1":"astonvilla",
+    "score1":"1",
+    "logo1":"./Asset/astonvilla.png",
+    "equipe2":"Norwich City",
+    "score2":"0",
+    "logo2":"./Asset/norwich.png"
+},
+{
+    "league":"france",
+    "equipe1":"Arsenal",
+    "score1":"2",
+    "logo1":"./Asset/arsenal.png",
+    "equipe2":"Tottenham Hotspur",
+    "score2":"1",
+    "logo2":"./Asset/totanham.png"
+}
+   
+]
+
+
+
+
+
+
+
+
+
+

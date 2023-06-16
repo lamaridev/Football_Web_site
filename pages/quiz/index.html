@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Quiz !</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    </head>
+    <body>
+
+        <header >
+            <div class="logo">
+                <img src="../../Asset/000668-soccer-01-removebg-preview.png" alt="">
+                <a href="/index.html" class="websitename">KOORA LIVE</a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="../score_match/index.html">MATCH</a></li>
+                    <li><a href="../HistoryAndRules/index.html">HISTORIQUE / REGLES</a></li>
+                    <li><a href="./index.html">QUIZ</a></li>
+                    <li><a href="">ABOUT</a></li>
+                </ul>
+            </nav>
+        </header>
+            <div class="start_btn"><button>Lancer le Quiz</button></div>
+
+            <!-- Règles Box -->
+            <div class="info_box">
+                <div class="info-title"><span>Quelques Règles de ce Quiz</span></div>
+                <div class="info-list">
+                    <div class="info">1. Vous n'aurez que <span>15 secondes</span> pour chaque question.</div>
+                    <div class="info">2. Une fois que vous avez sélectionné votre réponse, elle ne peut pas être annulée.</div>
+                    <div class="info">3. Vous ne pouvez sélectionner aucune option une fois que le temps s'est écoulé.</div>
+                    <div class="info">4. Vous ne pouvez pas quitter le Quiz pendant que vous jouez.</div>
+                    <div class="info">5. Vous obtiendrez des points sur la base de vos bonnes réponses.</div>
+                </div>
+                <div class="buttons">
+                    <button class="quit">Exit Quiz</button>
+                    <button class="restart">Continue</button>
+                </div>
+            </div>
+    
+            <!-- Quiz Box -->
+            <div class="quiz_box">
+                <header>
+                    <div class="title">Quiz Application</div>
+                    <div class="timer">
+                        <div class="time_left_txt">Temps Restant</div>
+                        <div class="timer_sec">15</div>
+                    </div>
+                    <div class="time_line"></div>
+                </header>
+                <section>
+                    <div class="que_text">
+                        <!-- Ici j'ai inséré une question à partir JavaScript -->
+                    </div>
+                    <div class="option_list">
+                        <!-- Ici j'ai inséré une option à partir JavaScript -->
+                    </div>
+                </section>
+    
+                <!-- footer de Quiz Box -->
+                <footer>
+                    <div class="total_que">
+                        <!-- Ici j'ai inséré le compteur de questions à partir de JavaScript -->
+                    </div>
+                    <button class="next_btn">Suivant</button>
+                </footer>
+            </div>
+    
+            <!-- Resultat Box -->
+            <div class="result_box">
+                <div class="icon">
+                    <i class="fas fa-crown"></i>
+                </div>
+                <div class="complete_text">Vous avez terminer le Quiz!</div>
+                <div class="score_text">
+                    <!-- Ici j'ai inséré le resultat à partir de JavaScript -->
+                </div>
+                <div class="buttons">
+                    <button class="restart">Relancer</button>
+                    <button class="quit">Quitter</button>
+                </div>
+            </div>
+        
+        <!-- Button Lancer -->
+        
+
+
+        <!-- Questions et Options -->
+        <script src="questions.js"></script>
+
+        <!-- Quiz js -->
+        <script src="script.js"></script>
+
+    </body>
+</html>
